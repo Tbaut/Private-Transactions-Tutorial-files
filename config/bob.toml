@@ -22,7 +22,3 @@ bootnodes = [
   "enode://29ebcddebe4d2c13632080e12a39ef89ff245893e3a7685676a01cbea011395bfce72e82664a9379eb5f3916e9e4f0df5de65d2559e87c28ceb291d53aee6fe0@127.0.0.1:30300",
   "enode://00db9262e364d683852488c0b404b146268bc1be3df01bbd572e33692d4a8dbd4b8b6ab300e70a01cb3a5024fc164fc355041afdfe82642f3e36c61763b0f22d@127.0.0.1:30304"
 ]
-
-[account] # unlock Bob's account to deploy the contract
-unlock = ["0xfeacd0d28fd158ba2d3adb6d69d20c723214edc9"]
-password = ["bob.pwd"]
